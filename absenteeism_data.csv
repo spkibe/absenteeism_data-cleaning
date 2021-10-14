@@ -1,0 +1,173 @@
+,Gender,Age,Year_study,Place_residence,Distance_from_campus,Missed_lectures,Units_missed,Lecture_time,Distance,Time,Mode,Health,Weather,Policy
+0,Male,28,4,Non - Resident,1-2KM,2,Common Unit,Morning,False,True,False,False,True,Agree
+1,Male,24,4,Non - Resident,More than 3KM,0,Common Unit,Morning,True,True,True,True,True,Strongly Agree
+2,Male,24,4,Non - Resident,1-2KM,2,Common Unit,Morning,True,False,False,True,False,Neutral
+3,Male,24,4,Non - Resident,More than 2KM,0,Common Unit,Morning,True,True,True,True,True,Strongly Agree
+4,Male,23,4,Non - Resident,More than 2KM,3,Common Unit,Morning,False,True,False,False,False,Agree
+5,Male,27,4,Resident,Less than 1 KM,4,Common Unit,Morning,False,False,False,False,True,Strongly Disagree
+6,Male,21,4,Non - Resident,1-2KM,9,Common Unit,Morning,False,True,False,False,False,Agree
+7,Male,22,4,Non - Resident,More than 2KM,5,Common Unit,Evening,False,False,False,True,False,Disagree
+8,Female,23,4,Non - Resident,More than 2KM,9,Common Unit,Evening,False,False,False,True,False,Disagree
+9,Male,22,4,Non - Resident,More than 2KM,9,Not affected,Not affected,False,False,False,True,False,Neutral
+10,Male,23,4,Non - Resident,Less than 1 KM,4,Common Unit,Morning,False,False,False,False,True,Strongly Agree
+11,Male,26,4,Non - Resident,Less than 1 KM,1,Not affected,Evening,False,False,True,False,False,Neutral
+12,Male,23,4,Non - Resident,More than 2KM,4,Common Unit,Morning,False,False,False,False,True,Agree
+13,Male,23,4,Non - Resident,1-2KM,5,Not affected,Evening,False,False,False,False,True,Agree
+14,Male,21,2,Resident,More than 2KM,2,Related Unit,Evening,False,False,False,True,False,Neutral
+15,Male,21,3,Non - Resident,1-2KM,4,Common Unit,Morning,True,True,True,False,True,Neutral
+16,Female,21,3,Non - Resident,1-2KM,3,Common Unit,Morning,False,True,False,False,True,Strongly Agree
+17,Male,22,4,Non - Resident,1-2KM,1,Common Unit,Morning,False,False,False,False,True,Strongly Agree
+18,Male,23,3,Non - Resident,1-2KM,1,Common Unit,Morning,False,False,False,False,True,Strongly Disagree
+19,Female,21,3,Non - Resident,Less than 1 KM,0,Common Unit,Morning,True,True,True,True,True,Neutral
+20,Male,22,4,Resident,1-2KM,9,Common Unit,Evening,False,False,True,False,False,Neutral
+21,Male,23,3,Non - Resident,More than 2KM,5,Common Unit,Evening,False,True,False,False,False,Neutral
+22,Female,22,3,Non - Resident,Less than 1 KM,4,Not affected,Morning,False,False,False,True,True,Neutral
+23,Female,19,2,Non - Resident,1-2KM,3,Common Unit,Morning,False,False,False,False,True,Disagree
+24,Male,23,4,Resident,More than 2KM,2,Not affected,Morning,False,False,False,True,False,Strongly Agree
+25,Male,24,4,Non - Resident,More than 2KM,9,Common Unit,Not affected,True,True,True,False,True,Agree
+26,Female,25,4,Non - Resident,1-2KM,3,Common Unit,Morning,False,True,True,False,False,Neutral
+27,Female,24,3,Non - Resident,More than 2KM,5,Common Unit,Morning,True,False,False,False,False,Disagree
+28,Female,21,4,Non - Resident,More than 2KM,3,Core Unit,Morning,False,False,False,True,False,Strongly Disagree
+29,Male,23,3,Non - Resident,More than 2KM,0,Not affected,Morning,True,True,False,False,True,Strongly Disagree
+30,Male,24,4,Resident,1-2KM,9,Common Unit,Morning,False,True,False,False,True,Agree
+31,Male,23 ,4,Non - Resident,More than 2KM,0,Not affected,Morning,True,True,True,True,True,Neutral
+32,Male,23,3,Resident,1-2KM,0,Common Unit,Morning,True,True,False,True,True,Agree
+33,Male,21,1,Resident,1-2KM,2,Not affected,Evening,False,False,False,False,True,Strongly Agree
+34,Female,23,4,Non - Resident,Less than 1 KM,0,Not affected,Not affected,True,True,True,True,True,Strongly Agree
+35,Female,22,4,Non - Resident,More than 2KM,3,Common Unit,Morning,True,True,True,False,True,Strongly Disagree
+36,Male,22,2,Non - Resident,More than 2KM,1,Not affected,Evening,False,False,False,True,False,Agree
+37,Male,22,3,Non - Resident,1-2KM,9,Core Unit,Morning,False,True,True,False,False,Disagree
+38,Female,21,3,Non - Resident,More than 2KM,2,Not affected,Morning,False,False,False,True,False,Strongly Disagree
+39,Female,21,4,Non - Resident,More than 2KM,2,Common Unit,Morning,False,False,False,True,False,Neutral
+40,Male,23,4,Non - Resident,1-2KM,3,Common Unit,Evening,False,False,True,False,False,Neutral
+41,Male,21,1,Non - Resident,1-2KM,9,Core Unit,Evening,False,False,True,False,True,Neutral
+42,Male,23,4,Resident,1-2KM,9,Common Unit,Morning,True,True,True,True,True,Neutral
+43,Female,19,1,Non - Resident,More than 2KM,3,Common Unit,Morning,False,True,False,False,False,Disagree
+44,Male,25,4,Non - Resident,1-2KM,3,Core Unit,Morning,False,True,False,True,True,Neutral
+45,Female,24,3,Non - Resident,Less than 1 KM,0,Not affected,Evening,True,True,True,True,True,Disagree
+46,Male,23,1,Resident,More than 2KM,2,Related Unit,Morning,False,False,False,False,True,Neutral
+47,Male,20,1,Resident,1-2KM,1,Not affected,Morning,False,False,False,False,True,Strongly Disagree
+48,Female,21,1,Non - Resident,1-2KM,2,Common Unit,Morning,False,False,False,True,False,Neutral
+49,Male,21,1,Non - Resident,Less than 1 KM,9,Not affected,Morning,False,True,False,False,False,Agree
+50,Male,19,1,Resident,Less than 1 KM,1,Not affected,Evening,False,False,False,True,False,Strongly Agree
+51,Male,19,1,Resident,Less than 1 KM,3,Common Unit,Evening,False,True,False,True,True,Disagree
+52,Male,22,1,Non - Resident,More than 2KM,,Core Unit,Not affected,True,True,True,True,True,Neutral
+53,Male,20,1,Resident,Less than 1 KM,1,Not affected,Not affected,False,True,False,False,False,Strongly Agree
+54,Male,19,1,Resident,Less than 1 KM,4,Not affected,Morning,False,False,False,False,True,Strongly Agree
+55,Female,18,1,Non - Resident,Less than 1 KM,3,Not affected,Evening,False,True,False,False,True,Neutral
+56,Male,20,1,Resident,More than 2KM,9,Common Unit,Not affected,False,False,False,True,False,Agree
+57,Female,23,4,Non - Resident,Less than 1 KM,Thrice per semester ,Common Unit,Evening,False,False,True,False,False,Disagree
+58,Male,21,2,Non - Resident,1-2KM,9,Common Unit,Morning,False,False,False,False,True,Disagree
+59,Female,18,1,Non - Resident,1-2KM,0,Not affected,Morning,True,True,True,True,True,Disagree
+60,Female,19,4,Non - Resident,More than 2KM,5,Common Unit,Evening,False,False,True,False,False,Agree
+61,Male,20,3,Non - Resident,1-2KM,3,Core Unit,Morning,False,False,False,False,True,Neutral
+62,Male,24,4,Non - Resident,More than 2KM,4,Common Unit,Evening,False,False,False,False,True,Neutral
+63,Male,24,4,Non - Resident,More than 2KM,6,Common Unit,Morning,True,False,True,False,True,Agree
+64,Male,20,1,Resident,Less than 1 KM,1,Not affected,Evening,False,True,True,False,True,Strongly Agree
+65,Male,25,4,Non - Resident,Less than 1 KM,1,Common Unit,Evening,False,False,True,False,False,Neutral
+66,Male,23,4,Non - Resident,1-2KM,5,Common Unit,Morning,True,True,True,True,True,Neutral
+67,Male,21,2,Resident,Less than 1 KM,Less than 10 times ,Common Unit,Not affected,False,False,False,False,True,Strongly Disagree
+68,Male,22,4,Resident,1-2KM,3,Common Unit,Not affected,False,False,False,False,True,Agree
+69,Male,24,4,Non - Resident,Less than 1 KM,3,Common Unit,Mid-Morning,False,True,False,True,False,Neutral
+70,Female,24,3,Non - Resident,Less than 1 KM,10 ,Common Unit,Evening,False,False,False,False,True,Strongly Agree
+71,Male,24,4,Non - Resident,1-2KM,9,Related Unit,Morning,False,True,True,True,False,Strongly Agree
+72,Female,22,4,Non - Resident,Less than 1 KM,9,Related Unit,Evening,False,False,True,False,True,Neutral
+73,Female,22,4,Non - Resident,1-2KM,9,Common Unit,Morning,False,True,True,False,True,Neutral
+74,Female,18,1,Non - Resident,1-2KM,1,Common Unit,Evening,False,True,False,False,False,Disagree
+75,Male,21,4,Resident,More than 2KM,5,Not affected,Morning,True,False,False,False,False,Disagree
+76,Male,23,4,Non - Resident,1-2KM,4,Not affected,Morning,False,True,False,False,True,Disagree
+77,Male,22,2,Non - Resident,More than 2KM,2,Core Unit,Evening,False,False,True,False,False,Strongly Disagree
+78,Female,19,2,Resident,Less than 1 KM,Many times ,Common Unit,Morning,False,False,False,True,True,Neutral
+79,Male,23,5,Non - Resident,More than 2KM,3,Common Unit,Evening,False,False,False,False,True,Agree
+80,Male,23,4,Non - Resident,Less than 1 KM,Once ,Not affected,Morning,False,False,False,True,False,Agree
+81,Female,20,1,Resident,1-2KM,0,Not affected,Evening,True,True,True,True,True,Neutral
+82,Male,25,4,Resident,1-2KM,4,Common Unit,Morning,True,True,False,False,True,Agree
+83,Male,18,1,Non - Resident,1-2KM,2,Not affected,Not affected,False,False,False,True,False,Strongly Agree
+84,Male,20,1,Non - Resident,Less than 1 KM,7,Common Unit,Not affected,False,False,False,False,True,Neutral
+85,Male,21,4,Non - Resident,1-2KM,3,Core Unit,Evening,False,False,False,False,True,Neutral
+86,Male,24,4,Resident,Less than 1 KM,5,Common Unit,Evening,True,True,False,False,True,Agree
+87,Female,18,1,Non - Resident,1-2KM,twice ,Related Unit,Morning,False,False,False,True,False,Strongly Disagree
+88,Male,23,4,Non - Resident,Less than 1 KM,0,Not affected,Morning,True,True,True,True,True,Neutral
+89,Male,25,4,Non - Resident,Less than 1 KM,1,Not affected,Not affected,False,False,False,True,False,Agree
+90,Male,24,4,Non - Resident,Less than 1 KM,2,Not affected,Morning,False,False,False,True,False,Strongly Agree
+91,Female,22,4,Resident,More than 2KM,1,Related Unit,Morning,False,False,False,True,False,Strongly Agree
+92,Female,23,4,Non - Resident,Less than 1 KM,1,Not affected,Not affected,False,False,False,True,False,Strongly Agree
+93,Male,23,2,Non - Resident,1-2KM,2,Common Unit,Evening,False,False,False,False,True,Neutral
+94,Male,22,4,Non - Resident,More than 2KM,4,Not affected,Morning,True,True,False,False,False,Neutral
+95,Female,20,2,Non - Resident,Less than 1 KM,0,Common Unit,Evening,True,True,True,True,True,Agree
+96,Male,23,2,Non - Resident,More than 2KM,1,Not affected,Not affected,False,False,False,False,True,Strongly Agree
+97,Male,22,4,Resident,Less than 1 KM,7,Not affected,Not affected,False,True,False,False,False,Disagree
+98,Male,24,2,Resident,Less than 1 KM,0,Not affected,Morning,True,True,True,True,True,Strongly Disagree
+99,Female,21,3,Non - Resident,More than 2KM,2,Core Unit,Afternoon,False,False,True,False,False,Neutral
+100,Female,20 years,2,Non - Resident,Less than 1 KM,1,Not affected,Not affected,False,False,False,True,False,Agree
+101,Female,22,4,Non - Resident,More than 2KM,9,Common Unit,Afternoon,False,False,True,False,False,Strongly Disagree
+102,Female,20,2,Non - Resident,Less than 1 KM,3,Common Unit,Not affected,False,False,False,True,True,Neutral
+103,Male,20,2,Non - Resident,Less than 1 KM,3,Not affected,Evening,False,False,False,True,True,Disagree
+104,Male,20,2,Resident,1-2KM,0,Related Unit,Morning,True,True,True,True,True,Neutral
+105,Male,24,4,Resident,1-2KM,6,Common Unit,Morning,True,True,True,False,True,Neutral
+106,Male,23,4,Non - Resident,More than 2KM,8,Common Unit,Morning,True,True,True,False,True,Disagree
+107,Female,23,4,Non - Resident,Less than 1 KM,2,Common Unit,Not affected,False,False,True,True,False,Neutral
+108,Female,21,4,Non - Resident,Less than 1 KM,2,Common Unit,Morning,False,False,False,False,True,Agree
+109,Female,22,2,Non - Resident,Less than 1 KM,2,Common Unit,Not affected,False,False,False,True,False,Agree
+110,Male,23,2,Non - Resident,More than 2KM,9,Common Unit,Morning,True,True,False,False,False,Strongly Disagree
+111,Male,21,2,Non - Resident,1-2KM,3,Not affected,Morning,False,True,False,False,True,Strongly Agree
+112,Male,22,4,Non - Resident,1-2KM,2,Not affected,Morning,False,False,False,True,False,Neutral
+113,Female,20,2,Resident,Less than 1 KM,9,Common Unit,Evening,False,True,False,False,False,Agree
+114,Male,22,3,Non - Resident,1-2KM,2,Common Unit,Evening,False,True,False,True,True,Strongly Disagree
+115,Female,21,3,Resident,Less than 1 KM,3,Common Unit,Evening,False,False,False,False,True,Strongly Agree
+116,Female,19,2,Resident,Less than 1 KM,0,Not affected,Not affected,True,True,True,True,True,Strongly Agree
+117,Male,23,2,Non - Resident,More than 2KM,6,Related Unit,Evening,False,True,True,False,False,Agree
+118,Female,22,2,Resident,Less than 1 KM,4,Common Unit,Morning,False,True,False,True,False,Neutral
+119,Female,23,2,Resident,More than 2KM,3,Common Unit,Evening,True,True,False,True,True,Agree
+120,Female,21,2,Non - Resident,Less than 1 KM,1,Not affected,Afternoon,False,True,False,False,False,Agree
+121,Female,24,4,Non - Resident,More than 2KM,1,Related Unit,Morning,False,True,False,False,False,Neutral
+122,Male,20,1,Non - Resident,1-2KM,3,Common Unit,Evening,False,False,True,False,False,Agree
+123,Female,24,3,Non - Resident,Less than 1 KM,5,Common Unit,Morning,False,True,False,True,False,Strongly Agree
+124,Female,22,5,Non - Resident,Less than 1 KM,5,Common Unit,Evening,False,False,False,False,True,Disagree
+125,Male,22years,3,Non - Resident,1-2KM,0,Not affected,Not affected,True,True,True,True,True,Neutral
+126,Male,22,4,Non - Resident,Less than 1 KM,2,Not affected,Not affected,False,False,True,False,False,Agree
+127,Female,18,1,Resident,Less than 1 KM,4,Not affected,Morning,False,False,True,True,False,Agree
+128,Male,20,2,Non - Resident,1-2KM,2,Common Unit,Morning,False,False,False,False,True,Disagree
+129,Female,22,3,Non - Resident,Less than 1 KM,2,Related Unit,Morning,False,False,False,True,True,Strongly Agree
+130,Female,22,3,Resident,Less than 1 KM,1,Common Unit,Not affected,False,False,False,True,False,Disagree
+131,Male,24,4,Non - Resident,1-2KM,4,Common Unit,Morning,False,False,False,False,True,Disagree
+132,Female,22,3,Resident,Less than 1 KM,9,Common Unit,Morning,False,True,False,False,False,Strongly Agree
+133,Female,22,3,Resident,1-2KM,9,Common Unit,Morning,True,True,False,False,True,Disagree
+134,Female,21,3,Non - Resident,More than 2KM,1,Common Unit,Evening,False,False,False,True,False,Agree
+135,Male,22,2,Non - Resident,Less than 1 KM,4,Common Unit,Morning,False,True,False,False,False,Disagree
+136,Female,21,3,Non - Resident,Less than 1 KM,6,Not affected,Evening,False,True,False,False,False,Strongly Agree
+137,Female,20,1,Resident,Less than 1 KM,1,Common Unit,Evening,False,False,False,False,True,Strongly Disagree
+138,Female,21,3,Resident,1-2KM,2,Common Unit,Morning,False,False,False,True,False,Strongly Agree
+139,Male,24,4,Resident,1-2KM,6,Common Unit,Evening,False,True,False,False,True,Agree
+140,Male,22,3,Non - Resident,1-2KM,2,Common Unit,Afternoon,False,True,False,False,False,Strongly Disagree
+141,Male,24,5,Non - Resident,More than 2KM,5,Common Unit,Morning,True,False,False,False,False,Strongly Disagree
+142,Male,25,4,Resident,1-2KM,5,Not affected,Morning,False,False,False,False,True,Strongly Agree
+143,Male,23,2,Resident,Less than 1 KM,2,Not affected,Evening,False,True,False,False,False,Strongly Agree
+144,Female,22,3,Non - Resident,Less than 1 KM,0,Core Unit,Mid-Morning,True,False,False,False,False,Agree
+145,Female,21,4,Resident,Less than 1 KM,1,Not affected,Afternoon,False,False,False,True,False,Strongly Disagree
+146,Male,25,3,Non - Resident,1-2KM,9,Not affected,Not affected,True,True,True,True,True,Strongly Agree
+147,Female,24,5,Non - Resident,More than 2KM,9,Not affected,Morning,True,False,False,False,True,Strongly Disagree
+148,Female,23,4,Non - Resident,1-2KM,0,Common Unit,Morning,True,True,True,True,True,Neutral
+149,Female,25,2,Resident,1-2KM,0,Not affected,Morning,True,True,True,True,True,Strongly Agree
+150,Male,23,3,Resident,Less than 1 KM,2,Not affected,Morning,False,False,False,False,True,Strongly Agree
+151,Male,24,4,Non - Resident,Less than 1 KM,4,Common Unit,Not affected,False,False,False,False,True,Neutral
+152,Male,23,4,Resident,Less than 1 KM,3,Core Unit,Morning,True,False,False,False,False,Strongly Agree
+153,Female,22,4,Resident,Less than 1 KM,9,Common Unit,Afternoon,False,True,False,False,False,Neutral
+154,Female,28,4,Non - Resident,More than 2KM,2,Common Unit,Evening,False,True,False,False,False,Strongly Disagree
+155,Female,21,1,Resident,Less than 1 KM,2,Related Unit,Afternoon,False,False,False,True,False,Strongly Disagree
+156,Male,20,3,Non - Resident,Less than 1 KM,2,Related Unit,Morning,False,False,True,False,False,Neutral
+157,Female,21,2,Non - Resident,More than 2KM,0,Not affected,Evening,True,True,True,True,True,Neutral
+158,Male,24,5,Non - Resident,More than 2KM,3,Related Unit,Evening,False,False,True,False,False,Strongly Agree
+159,Male,22,3,Resident,More than 2KM,1,Not affected,Not affected,False,False,False,True,False,Strongly Agree
+160,Female,22,4,Resident,More than 2KM,9,Common Unit,Evening,False,False,True,False,False,Strongly Agree
+161,Female,21,2,Non - Resident,Less than 1 KM,1,Not affected,Morning,False,False,False,False,True,Strongly Disagree
+162,Male,22,5,Non - Resident,1-2KM,9,Common Unit,Morning,False,False,True,False,False,Strongly Disagree
+163,Female,19,2,Resident,1-2KM,2,Not affected,Not affected,False,False,False,True,False,Neutral
+164,Female,26,1,Non - Resident,More than 2KM,1,Not affected,Evening,False,False,True,False,False,Disagree
+165,Male,20,3,Non - Resident,More than 2KM,4,Common Unit,Evening,False,True,True,False,False,Agree
+166,Male,23,2,Non - Resident,More than 2KM,9,Core Unit,Morning,False,True,False,False,False,Strongly Agree
+167,Female,22,2,Resident,Less than 1 KM,2,Not affected,Morning,False,True,False,False,False,Agree
+168,Female,23,4,Non - Resident,More than 2KM,9,Common Unit,Evening,True,False,False,False,True,Agree
+169,Male,24,4,Non - Resident,1-2KM,4,Common Unit,Morning,False,False,False,False,True,Strongly Agree
+170,Male,21,4,Resident,Less than 1 KM,3,Common Unit,Morning,False,False,False,True,False,Strongly Disagree
+171,Male,20,1,Non - Resident,Less than 1 KM,2,Not affected,Not affected,False,False,False,True,False,Strongly Agree
